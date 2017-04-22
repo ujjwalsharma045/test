@@ -38,4 +38,5 @@ if ($anotherString === 3) {
 else {
 	echo "false";
 }
+echo "php end of program"
 ?>
