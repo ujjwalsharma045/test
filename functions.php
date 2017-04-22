@@ -1,5 +1,5 @@
 <?php
-echo "php strpos functions 1";
+echo "php strpos functions 11";
 $inputString = "xyz123";
 echo "</br>Wrong way</br>";
 //bad code:
