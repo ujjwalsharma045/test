@@ -40,5 +40,5 @@ else {
 	echo "false";
 	$type= 0;
 }
-echo "php end of program add"
+echo "php end of program 1"
 ?>
