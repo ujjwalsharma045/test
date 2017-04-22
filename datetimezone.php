@@ -1,4 +1,5 @@
 <?php
+echo "PHP date time zone setting";
 date_default_timezone_set("Asia/Kolkata");
 echo "Indian Time:-".date("Y-m-d H:i:s");
 
