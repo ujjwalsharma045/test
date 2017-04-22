@@ -12,5 +12,5 @@ echo "<br/>";
 echo http_build_query($arr , 'flag_');
 echo "<br/>";
 echo http_build_query($arr  , 'flag_'  , '&sep');
-echo "last program";
+echo "last program with vim";
 ?>
