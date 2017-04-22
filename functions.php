@@ -34,9 +34,11 @@ echo "</br>Right way</br>";
 //good code:
 if ($anotherString === 3) {
 	echo "true";	    
+	$type= 1;
 }
 else {
 	echo "false";
+	$type= 0;
 }
 echo "php end of program add"
 ?>
